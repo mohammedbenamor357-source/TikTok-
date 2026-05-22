@@ -1,0 +1,1 @@
+node_modules/\n/.pnp\n.pnp.js\n\n/coverage\n\n/build\n/dist\n\n.DS_Store\n.env.local\n.env.development.local\n.env.test.local\n.env.production.local\n\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\nlerna-debug.log*\n\n.vscode/\n.idea/\n*.swp\n*.swo\n*~\n\nThumbs.db\n
